@@ -35,33 +35,35 @@
 
 ## 🧠 Tech Stack
 
-### 💻 Languages, Frameworks & Tools
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,java,python,js,ts" />
-  <br/>
-  <!-- Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vue,flutter&theme=dark" />
-  <br/>
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,aws,firebase" />
+### 💻 Languages  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" />
+  <img src="https://skillicons.dev/icons?i=python" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chittesh249&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Chittesh249&theme=tokyonight&hide_border=true" />
+### 🧩 Frameworks & Libraries  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chittesh249&theme=tokyonight&hide_border=true&bg_color=000000&color=9A00FF&line=00E5FF&point=FF00FF" />
+### 🛠 Tools & Platforms  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
 </p>
 
----
 
 ## 🏆 Achievements & Badges
 
