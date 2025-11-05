@@ -67,13 +67,28 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
 </p>
 
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chittesh249&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Chittesh249&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittesh249&theme=tokyonight&hide_border=true&bg_color=000000&color=9A00FF&line=00E5FF&point=FF00FF" />
+</p>
+
+---
 
 ## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chittesh249&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
+
+---
 
 ## 📂 Featured Project
 
@@ -83,14 +98,7 @@
 
 🔸 *A smart lost-and-found platform that allows users to report, search, and recover lost items seamlessly.*
 
-<!-- Uncomment below and duplicate to add more projects later
-
-### 🌟 Project Name
-**Tech Stack:**  
-📍 **GitHub:**  
-🧠 Short description…
-
--->
+<!-- Add more projects below when ready -->
 
 ---
 
