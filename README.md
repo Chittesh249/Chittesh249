@@ -35,34 +35,38 @@
 
 ## 🧠 Tech Stack
 
+<!-- Centered & Soft Neon Glow Icons -->
+
 ### 💻 Languages  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="40" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c" height="50" style="filter: drop-shadow(0 0 6px #a855f7);" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" style="filter: drop-shadow(0 0 6px #a855f7);" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" style="filter: drop-shadow(0 0 6px #a855f7);" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" style="filter: drop-shadow(0 0 6px #a855f7);" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" style="filter: drop-shadow(0 0 6px #a855f7);" />
 </p>
 
 ### 🧩 Frameworks & Libraries  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="filter: drop-shadow(0 0 6px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" style="filter: drop-shadow(0 0 6px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="filter: drop-shadow(0 0 6px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=express" height="50" style="filter: drop-shadow(0 0 6px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=vue" height="50" style="filter: drop-shadow(0 0 6px #38bdf8);" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" style="filter: drop-shadow(0 0 6px #38bdf8);" />
 </p>
 
 ### 🛠 Tools & Platforms  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" style="filter: drop-shadow(0 0 6px #ec4899);" />
 </p>
+
 
 
 ## 🏆 Achievements & Badges
