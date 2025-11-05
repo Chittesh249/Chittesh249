@@ -69,21 +69,11 @@
 
 
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Chittesh249&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
-
-<p align="center">
-  <a href="https://holopin.io/@yourholopinusername">
-    <img src="https://holopin.me/yourholopinusername" alt="Holopin Badges" width="80%" />
-  </a>
-</p>
-
-> Replace **yourholopinusername** with your actual Holopin username.
-
----
 
 ## 📂 Featured Project
 
