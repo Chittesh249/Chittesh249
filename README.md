@@ -73,14 +73,19 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chittesh249&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=Chittesh249&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chittesh249&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats-r71z.onrender.com?user=Chittesh249&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- swapped to cyclic.app mirror for better uptime -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chittesh249&bg_color=000000&color=9A00FF&line=00E5FF&point=FF00FF&area=true&hide_border=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=Chittesh249&theme=tokyo-night&hide_border=true" />
 </p>
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy-eight.vercel.app/?username=Chittesh249&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
 
 ---
 
