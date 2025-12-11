@@ -2,10 +2,9 @@
 <!--                          NEON BANNER                             -->
 <!-- ──────────────────────────────────────────────────────────────── -->
 
-<p align="center">
-  <!-- Make sure ./assets/banner.png exists in your repo (commit the file). -->
+<!--<p align="center">
   <img src="./assets/banner.png" alt="Chittesh - Full Stack Developer" />
-</p>
+</p>-->
 
 <!-- Typing Intro
      NOTE: Some free services (Heroku) that host the typing-svg go down.
